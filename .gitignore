@@ -1,0 +1,25 @@
+# Build outputs
+*.o
+*.elf
+*.map
+*.d
+*.lst
+*.axf
+*.bin
+*.hex
+
+# IDE files
+.vscode/
+.settings/
+*.uvoptx
+*.uvprojx
+
+# STM32CubeMX
+*.ioc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
